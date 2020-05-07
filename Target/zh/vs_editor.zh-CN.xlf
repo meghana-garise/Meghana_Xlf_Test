@@ -3,8 +3,8 @@
   <file original="src/vs/editor/common/standaloneStrings" source-language="en" datatype="plaintext" target-language="zh-CN">
     <body>
       <trans-unit id="noSelection">
-        <source xml:lang="en">No selection</source>
-        <target xml:lang="zh-CN" state="translated">无选定内容</target>
+        <source xml:lang="en">XML Web service</source>
+        <target xml:lang="zh-CN" state="needs-translation">XML Web service</target>
       </trans-unit>
       <trans-unit id="singleSelectionRange">
         <source xml:lang="en">Line {0}, Column {1} ({2} selected)</source>
