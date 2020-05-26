@@ -20,7 +20,7 @@
       </trans-unit>
       <trans-unit id="multiSelection" approved="yes">
         <source xml:lang="en">{0} selections</source>
-        <target xml:lang="hi" state="final">{0} selections</target>
+        <target xml:lang="hi" state="final">Testing Upload - final</target>
       </trans-unit>
       <trans-unit id="emergencyConfOn" approved="yes">
         <source xml:lang="en">Now changing the setting `accessibilitySupport` to 'on'.</source>
