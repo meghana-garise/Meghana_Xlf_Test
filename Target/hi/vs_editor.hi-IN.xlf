@@ -20,19 +20,19 @@
       </trans-unit>
       <trans-unit id="multiSelection">
         <source xml:lang="en">{0} selections</source>
-        <target state="final">Testing Upload</target>
+        <target state="final">Testing Upload - final</target>
       </trans-unit>
       <trans-unit id="emergencyConfOn">
         <source xml:lang="en">Now changing the setting `accessibilitySupport` to 'on'.</source>
-        <target state="new">Now changing the setting `accessibilitySupport` to 'on'.</target>
+        <target state="translated">Testing Upload - with translated.</target>
       </trans-unit>
       <trans-unit id="openingDocs">
         <source xml:lang="en">Now opening the Editor Accessibility documentation page.</source>
-        <target state="new">Now opening the Editor Accessibility documentation page.</target>
+        <target state="translated">Now opening the Editor Accessibility documentation page.</target>
       </trans-unit>
       <trans-unit id="readonlyDiffEditor">
         <source xml:lang="en"> in a read-only pane of a diff editor.</source>
-        <target state="new"> in a read-only pane of a diff editor.</target>
+        <target state="final"> in a read-only pane of a diff editor.</target>
       </trans-unit>
       <trans-unit id="editableDiffEditor">
         <source xml:lang="en"> in a pane of a diff editor.</source>
