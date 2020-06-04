@@ -88,7 +88,7 @@
       </trans-unit>
       <trans-unit id="outroMsg">
         <source xml:lang="en">You can dismiss this tooltip and return to the editor by pressing Escape or Shift+Escape.</source>
-        <target state="new">You can dismiss this tooltip and return to the editor by pressing Escape or Shift+Escape.</target>
+        <target state="final">Meghana updated this as Final in Master branch in GitHub Testing</target>
       </trans-unit>
       <trans-unit id="showAccessibilityHelpAction">
         <source xml:lang="en">Show Accessibility Help</source>
