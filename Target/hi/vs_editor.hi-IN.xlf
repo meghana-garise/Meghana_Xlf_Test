@@ -4,11 +4,11 @@
     <body>
       <trans-unit id="noSelection">
         <source xml:lang="en">No selection</source>
-        <target state="new">No selection</target>
+        <target state="final">No selection</target>
       </trans-unit>
       <trans-unit id="singleSelectionRange">
         <source xml:lang="en">Line {0}, Column {1} ({2} selected)</source>
-        <target state="new">Line {0}, Column {1} ({2} selected)</target>
+        <target state="translated">Line {0}, Column {1} ({2} selected)</target>
       </trans-unit>
       <trans-unit id="singleSelection">
         <source xml:lang="en">Line {0}, Column {1}</source>
