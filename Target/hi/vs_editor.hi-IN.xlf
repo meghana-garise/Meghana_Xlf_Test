@@ -24,7 +24,7 @@
       </trans-unit>
       <trans-unit id="emergencyConfOn" approved="yes">
         <source xml:lang="en">Now changing the setting `accessibilitySupport` to 'on'.</source>
-        <target xml:lang="hi" state="final">Now changing the setting `accessibilitySupport` to 'on'.</target>
+        <target xml:lang="hi" state="final">Testing Upload - with translated.</target>
       </trans-unit>
       <trans-unit id="openingDocs" approved="yes">
         <source xml:lang="en">Now opening the Editor Accessibility documentation page.</source>
@@ -88,7 +88,7 @@
       </trans-unit>
       <trans-unit id="outroMsg" approved="yes">
         <source xml:lang="en">You can dismiss this tooltip and return to the editor by pressing Escape or Shift+Escape.</source>
-        <target xml:lang="hi" state="final">You can dismiss this tooltip and return to the editor by pressing Escape or Shift+Escape.</target>
+        <target xml:lang="hi" state="final">Meghana updated this as Final in Master branch in GitHub Testing</target>
       </trans-unit>
       <trans-unit id="showAccessibilityHelpAction" approved="yes">
         <source xml:lang="en">Show Accessibility Help</source>
